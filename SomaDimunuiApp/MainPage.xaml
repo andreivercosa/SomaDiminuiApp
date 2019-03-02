@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SomaDimunuiApp"
+             x:Class="SomaDimunuiApp.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label 
+                Text="0"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+                x:Name="texto"
+                FontSize="80"
+        />
+        
+        <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal">
+        
+         <Button
+            Text="-"
+            WidthRequest="150"
+            HeightRequest="80"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"  
+            Clicked="diminui"
+            FontSize="30"
+            FontAttributes="Bold"
+            TextColor="Red"
+            />
+        <Button
+            Text="+"
+            WidthRequest="150"
+            HeightRequest="80"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"   
+            Clicked="aumenta"
+            FontSize="30"
+            FontAttributes="Bold"
+            TextColor="Blue"
+            />
+       
+     
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

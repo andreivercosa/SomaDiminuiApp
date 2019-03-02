@@ -1,0 +1,12 @@
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/bin/Debug/netstandard2.0/SomaDimunuiApp.deps.json
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/bin/Debug/netstandard2.0/SomaDimunuiApp.dll
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/bin/Debug/netstandard2.0/SomaDimunuiApp.pdb
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.AssemblyInfo.cs
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.dll
+/Users/aluno/Projects/SomaDimunuiApp/SomaDimunuiApp/obj/Debug/netstandard2.0/SomaDimunuiApp.pdb
